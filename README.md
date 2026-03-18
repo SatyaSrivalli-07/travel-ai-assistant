@@ -165,6 +165,17 @@ The project includes an AI-based itinerary generator. It can be implemented usin
 
 A basic SQLite database is integrated using SQLAlchemy. It can be extended to store users, trip history, and hotel data.
 
+
+## Execution Screenshot
+
+Below is the output of the Trip Planner API:
+
+![Execution Output](output.png)
+![Execution Output](output2.png)
+![Execution Output](search.png)
+
+
+
 ---
 
 ## Notes
