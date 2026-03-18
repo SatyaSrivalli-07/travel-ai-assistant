@@ -1,0 +1,10 @@
+[
+  {
+    "hotel_id": 1,
+    "hotel_name": "Grand Palace",
+    "city": "Goa",
+    "price_per_night": 3000,
+    "rating": 4.5,
+    "location": "Baga Beach"
+  }
+]
